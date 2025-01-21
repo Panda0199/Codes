@@ -1,0 +1,88 @@
+*{
+    background-color:#f5f5f5;
+    font-family:Helvetica;
+
+}
+.container {
+    display: flex;
+    justify-content: space-between; /* Adjust spacing */
+    align-items: flex-start; /* Align items vertically */
+}
+
+.blue{
+    color:#1877F2;
+}
+.blue2{
+    background-color:#1877F2;
+    color:white;
+}
+.green{
+    background-color:#6ec809;
+    color:white;
+    padding:18px;
+    border-radius: 6px;
+    border:0px;
+    width:200px;
+}
+.right{
+    display:inline-grid;
+    width: 250px;
+    margin: 290px 460px 0px 0px;
+
+}
+.left{
+    display:inline-grid;
+    width: 380px;
+    margin: 300px 0px 0px 290px;
+}
+.right form{
+    background-color:white;
+    width: 375px;
+    height:345px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 0px 0px 0px 50px;
+}
+#login{
+    font-size:21px;
+    width:370px;
+    padding:13px;
+    border-radius: 6px;
+    margin: 0px 0px 14px 0px;
+    border:0px;
+}
+#email{
+    font-size:18px;
+    width:330px;
+    margin:2px 3px 0px 0px;
+    padding:18px;
+    border-radius: 6px;
+    border:0.1px solid grey;
+    background-color:white;
+ }
+#pass{
+    font-size:18px;
+    width:330px;
+    padding:18px;
+    border-radius: 6px;
+    border:0.1px solid grey;
+    background-color:white;
+    margin-right:1px;
+}
+
+a{
+    font-size:13px;
+    text-decoration: none;
+    margin: 0px 0px 15px 0px;
+    background-color:white;
+}
+p{
+    margin: 0px 0px 0px 0px;
+    font-size:22px;
+}
+h1{
+    margin: 50px 0px 5px 0px;
+    font-size:50px;
+}
