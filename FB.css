@@ -5,8 +5,8 @@
 }
 .container {
     display: flex;
-    justify-content: space-between; /* Adjust spacing */
-    align-items: flex-start; /* Align items vertically */
+    justify-content: space-between;
+    align-items: flex-start; 
 }
 
 .blue{
